@@ -1,5 +1,9 @@
+import 'package:communication/service/Cache.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+
+import '../firebase_options.dart';
 
 void ShowToast({required String text, required ToustStute stute}) =>
     Fluttertoast.showToast(
@@ -31,3 +35,10 @@ Color ChoseToustColor(ToustStute stute) {
 
 
 enum MyStatus { initial, loading, success, failure, error }
+Future<void> call() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+  await SharedPreferencesHelper.getSharedPreferences();
+}
