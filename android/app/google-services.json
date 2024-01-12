@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244014039102",
+    "project_id": "gymahmed-cd701",
+    "storage_bucket": "gymahmed-cd701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244014039102:android:8fb9c16ad5590d2752116f",
+        "android_client_info": {
+          "package_name": "com.example.communication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244014039102-395bsn5efnmau92pq4r2bu1avr3940o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvli7t_UGgB2iBAc1LUejWxsq84izItoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244014039102-395bsn5efnmau92pq4r2bu1avr3940o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
