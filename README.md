@@ -1,4 +1,4 @@
-# Flutter Cubit Communication App with Firebase Integration
+#  Communication App with Firebase Integration
 This repository contains a Flutter app that demonstrates how to use the Cubit state management package for communication between different components of your application, along with Firebase integration for data storage and retrieval.
 
 ## Features
