@@ -7,9 +7,9 @@ This repository contains a Flutter app that demonstrates how to use the Cubit st
 2-Posts: Users can create, view, and interact with posts.
 3-Comments: Users can comment on posts and view existing comments.
 4-Chats: Users can engage in real-time chat conversations with other users.
-5-Search: User can use search to search users.
-6-Theme: User can use 3 theme mode dark mode and light mode and coustom mode.
-7-localization:User can use  lange ar or en.
+5-Search: Users can use search to search users.
+6-Theme: The user can use 3 theme modes dark mode light mode and custom mode.
+7-localization: The user can use  lange ar or en.
 8-State management using the Cubit package.
 9-Communication between widgets using Cubit.
 10-Integration with Firebase for data storage and retrieval.
@@ -19,8 +19,8 @@ This repository contains a Flutter app that demonstrates how to use the Cubit st
 
 ## Overview
 
-The purpose of this app is to showcase the usage of Cubit for state management. and Firebase for data storage in a Flutter application. and SharedPrefrance for data storage local and. Use get_it package Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App.
-and 7-localization:User can use  lange ar or en. and clean code.
+The purpose of this app is to showcase the usage of Cubit for state management. and Firebase for data storage in a Flutter application. and SharedPrefrance for data storage local and. Use the get_it package Simple direct Service Locator that allows you to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App.
+and 7-localization: The user can use  lange ar or en. and clean code.
 ### Images App : 
 
 <div>
